@@ -1,6 +1,7 @@
 
 # Link Github Pages
 [https://ricardocabrero.github.io/react-hooks-example/](https://ricardocabrero.github.io/react-hooks-example/)
+<a href="https://ricardocabrero.github.io/react-hooks-example/" target="_blank">https://ricardocabrero.github.io/react-hooks-example/</a>
 
 # Getting Started with Create React App
 
